@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+test/dest
+tests.xml
+jslint.xml
